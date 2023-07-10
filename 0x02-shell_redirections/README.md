@@ -1,1 +1,1 @@
-Shell_redirections wan kill me
+shell_redirections wan kill me
